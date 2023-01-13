@@ -55,7 +55,7 @@ body {
 .input-field input {
     background-color: transparent;
     border: none;
-    border-bottom: 2px solid #7336ff;
+    border-bottom: 2px solid #3639ff;
     font-size: 18px ;
     border-radius: 2px;
     padding: 5px;
@@ -64,11 +64,11 @@ body {
 
 .input-field input:focus {
     outline: none;
-    border-bottom: 3px solid #7336ff;
+    border-bottom: 4px solid #3639ff;
 }
 
 #generate {
-    background-color: #7336ff;
+    background-color: #3639ff;
     border: none;
     width: 100%;
     padding: 12px 20px;
